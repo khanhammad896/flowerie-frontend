@@ -16,7 +16,7 @@ const Navbar = (): JSX.Element => {
         <div className="font-semibold white text-2xl cursor-pointer">
           Venues
         </div>
-        <div className="font-semibold white text-2xl mx-20 cursor-pointer">
+        <div className="font-semibold white text-2xl mx-12 cursor-pointer">
           Suppliers
         </div>
         <div className="font-semibold white text-2xl cursor-pointer">Shop</div>
